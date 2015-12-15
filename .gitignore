@@ -4,6 +4,9 @@
 /[Oo]bj/
 /[Bb]uild/
 
+# My Builds
+/Builds/*
+
 # Blender Backup files
 *.blend[0-9]*
 
