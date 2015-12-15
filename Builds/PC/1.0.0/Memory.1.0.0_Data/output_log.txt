@@ -1,0 +1,35 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     2063 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.058 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\GitHub\Game_Memory\Builds\PC\1.0.0\Memory.1.0.0_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 270c -> priority: 1 
+  Thread -> id: 2470 -> priority: 1 
+Called OnMouseUp for Card: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
