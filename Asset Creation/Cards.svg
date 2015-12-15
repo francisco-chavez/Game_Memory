@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4146"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="Cards.svg"
+   inkscape:export-filename="D:\Dropbox\Memory Game\Asset Creation\CardTextures\Card07.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata4152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4150" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1526"
+     inkscape:window-height="877"
+     id="namedview4148"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="99.818135"
+     inkscape:cy="472"
+     inkscape:window-x="66"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8" />
+  <image
+     sodipodi:absref="D:\Dropbox\Memory Game\Asset Creation\Blender\BlankCard.png"
+     xlink:href="Blender\BlankCard.png"
+     width="1024"
+     height="1024"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     id="image4154"
+     x="0"
+     y="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="UVGrid"
+     style="display:none">
+    <image
+       sodipodi:absref="D:\Dropbox\Memory Game\Asset Creation\Blender\PlayingCardUVLayout.png"
+       xlink:href="Blender\PlayingCardUVLayout.png"
+       y="-5.6843419e-014"
+       x="0"
+       id="image4705"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="1024"
+       width="1024" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#00ab00;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4136"
+       sodipodi:sides="3"
+       sodipodi:cx="245.44392"
+       sodipodi:cy="545.56506"
+       sodipodi:r1="175.99637"
+       sodipodi:r2="62.988045"
+       sodipodi:arg1="0.52312562"
+       sodipodi:arg2="1.5703232"
+       inkscape:flatsided="true"
+       inkscape:rounded="3.46945e-018"
+       inkscape:randomized="0"
+       d="M 397.90287,633.49112 93.068252,633.63535 245.36065,369.56871 Z"
+       inkscape:transform-center-x="26.216541"
+       inkscape:transform-center-y="5.9323837" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4139"
+       sodipodi:sides="4"
+       sodipodi:cx="244.90379"
+       sodipodi:cy="517.09619"
+       sodipodi:r1="213.54681"
+       sodipodi:r2="62.257271"
+       sodipodi:arg1="0.78539817"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="3.46945e-018"
+       inkscape:randomized="0"
+       d="m 395.90419,668.09659 -302.000798,0 2e-6,-302.0008 302.000796,0 z"
+       inkscape:transform-center-x="20.724632"
+       inkscape:transform-center-y="-11.405223" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     style="display:none;opacity:0.98999999">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#ff7d00;fill-opacity:1;stroke:#000000;stroke-width:8.73349571;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4142"
+       sodipodi:sides="4"
+       sodipodi:cx="205"
+       sodipodi:cy="201"
+       sodipodi:r1="173.99886"
+       sodipodi:r2="125.51494"
+       sodipodi:arg1="1.5755521"
+       sodipodi:arg2="2.3609503"
+       inkscape:flatsided="true"
+       inkscape:rounded="3.46945e-018"
+       inkscape:randomized="0"
+       d="M 204.1725,374.99689 31.003112,200.1725 205.8275,27.003112 378.99689,201.8275 Z"
+       transform="matrix(0.81075899,0,0,1.0349324,80.502918,304.96817)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 4"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4145"
+       sodipodi:sides="5"
+       sodipodi:cx="248.78838"
+       sodipodi:cy="508.28107"
+       sodipodi:r1="158.09647"
+       sodipodi:r2="80.611473"
+       sodipodi:arg1="0.94746233"
+       sodipodi:arg2="1.5789455"
+       inkscape:flatsided="false"
+       inkscape:rounded="3.46945e-018"
+       inkscape:randomized="0"
+       d="m 341.07646,636.6454 -92.94499,-47.75554 -92.90624,46.82915 16.69663,-103.15321 -73.246775,-73.88809 103.264085,-15.99665 47.63724,-92.4945 47.12408,93.26674 102.68821,16.72334 -74.1398,73.63867 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 5"
+     style="display:none">
+    <circle
+       style="display:inline;opacity:1;fill:#0000bc;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4150"
+       cx="245.87982"
+       cy="513.12018"
+       r="147.51613" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Layer 6"
+     style="display:none">
+    <ellipse
+       style="display:inline;opacity:1;fill:#950095;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4155"
+       cx="244.5"
+       cy="507.38864"
+       rx="102.52132"
+       ry="164.13271" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 7"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4158"
+       width="301.03381"
+       height="151.42911"
+       x="94.905724"
+       y="444.66516" />
+  </g>
+</svg>
